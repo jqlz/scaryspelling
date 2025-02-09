@@ -28,7 +28,7 @@ local words = {
     "paleontology",
     "killerwin",
     "home",
-    "sand",a
+    "sand",
     "bell",
     "egg",
     "prank",
