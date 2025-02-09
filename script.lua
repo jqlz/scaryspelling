@@ -9,6 +9,7 @@ local words = {
     "taco",
     "icecream",
     "roblox",
+    "fireworks",
     "stop",
     "archaeologist",
     "butter",
