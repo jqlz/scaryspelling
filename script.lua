@@ -10,6 +10,7 @@ local words = {
     "icecream",
     "roblox",
     "stop",
+    "archaeologist",
     "butter",
     "trophy",
     "breeze",
