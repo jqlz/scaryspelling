@@ -1,4 +1,4 @@
-local plrs = game:GetService("Players")
+pallocal plrs = game:GetService("Players")
 local UIS = game:GetService("UserInputService")
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 
@@ -13,6 +13,7 @@ local words = {
     "stop",
     "archaeologist",
     "butter",
+    "chicken",
     "trophy",
     "breeze",
     "obby",
