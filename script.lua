@@ -350,6 +350,7 @@ local words = {
     "rocket",
     "rock",
     "sagacious",
+    "hypothermic",
     "sand",
     "sandcastle",
     "scissors",
@@ -583,6 +584,6 @@ typingText:GetPropertyChangedSignal("Text"):Connect(function()
 end)
 
 game:GetService("StarterGui"):SetCore("SendNotification", {
-    Title = "jqlz scary spelling script",
-    Text = "thanks for using me"
+    Title = "Lotus Hub",
+    Text = "This script was made by the developer of Lotus hub"
 })
